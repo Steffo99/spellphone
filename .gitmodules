@@ -1,0 +1,3 @@
+[submodule "Assets/remoted"]
+	path = Assets/remoted
+	url = https://github.com/Steffo99/remoted
